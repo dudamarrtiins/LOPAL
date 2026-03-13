@@ -21,7 +21,7 @@ Esse Projeto Foi Realizado Como Atividade Pratica do Senai, Visando Desenvolver 
 #
 
  ## Exercicio 1️⃣
-  Requisito 
+  Requisitos
 - Leia o nome de uma pessoa
 - Digite “Olá, [tal pessoa]!”
   
@@ -29,7 +29,7 @@ Esse Projeto Foi Realizado Como Atividade Pratica do Senai, Visando Desenvolver 
 
 
  # Exercicio 2️⃣
- Requisito 
+ Requisitos 
 - Leia dois números
 - Calcule a soma
 - Exiba o resultado da soma
@@ -38,7 +38,7 @@ Esse Projeto Foi Realizado Como Atividade Pratica do Senai, Visando Desenvolver 
 
 
  # Exercicio 3️⃣
- Requisito 
+ Requisitos 
 - Leia a idade de uma pessoa
 - Se a idade for maior ou igual a 18, exiba “Maior de idade”
 - Caso contrário exiba “Menor de idade”
@@ -47,7 +47,7 @@ Esse Projeto Foi Realizado Como Atividade Pratica do Senai, Visando Desenvolver 
 
 
  # Exercicio 4️⃣
- Requisito 
+ Requisitos 
 - Leia um número
 - Informe se ele é positivo negativo ou zero
   
@@ -55,7 +55,7 @@ Esse Projeto Foi Realizado Como Atividade Pratica do Senai, Visando Desenvolver 
 
 
  # Exercicio 5️⃣
- Requisito 
+ Requisitos 
 - Leia duas Notas
 - Calcule a média
 - Exiba a média final
